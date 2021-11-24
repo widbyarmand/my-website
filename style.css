@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+nav {
+  height: 80px;
+  background-color: #f7f7f7;
+}
+
+a:link {
+  text-decoration: none;
+  display: inline-block;
+  padding: ;
+}
+nav li {
+  text-decoration: none;
+  display: inline-block;
+  padding-right: 10px;
+}
