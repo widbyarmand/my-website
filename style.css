@@ -1,25 +1,9 @@
-* {
-  margin: 0;
-  padding: 0;
-}
-nav {
-  height: 80px;
-  background-color: #f7f7f7;
-  text-align: center;
-}
-
 nav li {
-  display: inline-block;
-  margin-right: 25px;
-  padding-top: 30px;
   list-style: none;
-}
-li a:link {
-  text-decoration: none;
+  display: inline-block;
+  padding-right: 10px;
 }
 
-.hero {
-  height: 700px;
-  width: auto;
-  background-color: #f7f7f7;
+nav li:first-child {
+  margin-left: 200px;
 }
